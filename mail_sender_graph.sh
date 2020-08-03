@@ -8,5 +8,5 @@ git commit -m "GraphGenerator"
 git push -u origin master
 
 
-/data/venv/bin/python3 newshtml_img.py
+/data/venv/bin/python3 mail_sender_graph.py
 
